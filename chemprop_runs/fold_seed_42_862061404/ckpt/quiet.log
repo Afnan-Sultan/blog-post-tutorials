@@ -1,0 +1,24 @@
+Fold 0
+Model 0 best validation mae = 0.395935 on epoch 26
+Model 0 test mae = 0.430730
+Model 0 test r2 = 0.284636
+Ensemble test mae = 0.430730
+Ensemble test r2 = 0.284636
+1-fold cross validation
+	Seed 42 ==> test mae = 0.430730
+	Seed 42 ==> test r2 = 0.284636
+Overall test mae = 0.430730 +/- 0.000000
+Overall test r2 = 0.284636 +/- 0.000000
+Elapsed time = 0:00:45
+Fold 0
+Model 0 best validation mae = 0.688956 on epoch 26
+Model 0 test mae = 0.613762
+Model 0 test r2 = 0.316116
+Ensemble test mae = 0.613762
+Ensemble test r2 = 0.316116
+1-fold cross validation
+	Seed 42 ==> test mae = 0.613762
+	Seed 42 ==> test r2 = 0.316116
+Overall test mae = 0.613762 +/- 0.000000
+Overall test r2 = 0.316116 +/- 0.000000
+Elapsed time = 0:00:44
